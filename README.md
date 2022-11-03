@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hellochenk
+- 👋 Hi, I’m @hellochenk (FE developer, react)
 - 👀 I’m interested in webgl
 - 🌱 I’m currently learning glsl
 
